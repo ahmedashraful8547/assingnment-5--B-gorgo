@@ -1,0 +1,303 @@
+/*globale css code gose here*/
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.body{
+    font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+     font-family: 'Poppins', sans-serif;
+}
+
+a,a:hover{
+	text-decoration: none;
+}
+
+.containar{
+	width: 1140px;
+	margin: 0px auto;
+}
+
+.row{
+	width: 100%;
+	float: left;
+}
+
+.col-4{
+	width: 33.33%;
+	float:left;
+}
+
+
+.col-9{
+  width: 75%;
+  float: left;
+}
+
+.col-12{
+	width: 100%;
+	float: left;
+}
+
+
+
+ /*header area work staret in here*/
+
+
+.header-area{
+   width: 100%;
+   float: left;
+   padding: 20px 0px;
+   background:#F7F7F7;
+}
+
+.logo{
+
+}
+
+.header-area .navbar{
+	width: 100%;
+	float: left;
+	text-align: right;
+} 
+
+.header-area .navbar li {
+	list-style: none;
+	display: inline-block;
+}
+
+.header-area .navbar li a {
+	display: block;
+	font-size: 14px;
+	text-transform: capitalize;
+	color: #B5B8BB;
+	font-weight: 600;
+	margin: 15px 0px 0px 25px;
+    transition: 1s;
+}
+
+.header-area .navbar li a:hover,.header-area .navbar li a:focus{
+	color: #065FD4;
+}
+
+.submit{
+	float: right;
+	width:16%;
+	padding: 10px;
+    margin: 10px;
+    background-color: #FF6162;
+}
+
+
+/*online code strate in here*/
+
+ .online-section{
+    width: 100%;
+    float: left;
+    padding: 80px 0px;
+ }
+
+ .inner-online{
+ 	width: 100%;
+ 	float: left;
+ 	text-align: center;
+ }
+
+ .inner-online h1{
+     font-size: 56px;
+     line-height: 1.4em;
+     font-weight: 700;
+     color: #0F2656;
+     margin: 0px 0px 15px;
+ }
+
+
+
+ .inner-online h1 span{
+ 	color:#008AFF;
+ }
+
+ .inner-online p{
+ 	font-size: 16px;
+   line-height: 26px;
+   font-weight: 400;
+   color:#777;
+}
+
+ 
+ .inner-online .banner-image{
+ 	width: 40%;
+ }
+
+
+/*online code end in here*/
+
+/*successfully section css code start in here*/
+
+.successfully-secrtion{
+      width: 100%;
+      float:left;
+      padding: 20px 0px 26px;
+}
+
+.inner-left{
+	width: 100%;
+	float:left;
+	text-align:left;
+
+}
+
+.inner-left h2 {
+	font-family:serif;
+	font-size: 40px;
+	line-height:35px; 
+	font-weight: 400;
+	margin-bottom:20px;
+
+}
+
+.inner-left p {
+   font-size: 16px;
+   line-height: 16px;
+   font-weight: 300;
+   color:#777;
+
+}
+
+.col-6{
+	width:50%;
+	float: left;
+}
+
+.col-6 img{
+	width: 700px;
+	height: 400px;
+}
+
+
+/*successfully section css code end in here*/
+
+
+
+
+
+/*Demo section css code start in here*/
+
+.Demo-area{
+	width: 100%;
+	float: left;
+	
+}
+
+.inner-Demo{
+	width: 100%;
+	float: left;
+	
+
+}
+
+.inner-Demo img{
+	width: 90%;
+	height: 300px;
+
+}
+
+.inner-Demo{
+	text-align: center;
+}
+
+.col-3{
+	width: 25%;
+	float: left;
+}
+
+
+
+
+
+
+/*Demo section css code end in here*/
+
+
+
+/*con-section css code start in here  */
+
+
+.cl5{
+
+    text-align: center;
+   border-radius: 2px;
+  F5F5F5
+} 
+.cl6 {
+      
+      text-align: center;
+     
+	}
+.cl7 {
+
+      text-align: center;
+     
+}
+.cl8 {
+	  text-align: center;
+	
+
+}
+.cl9 {
+
+     text-align: center;
+    
+}
+.cl10 {
+	text-align: center;
+	
+}
+
+.icon-area .containar .col-4{
+	margin-top: 40px;
+}
+
+/*con-section css code end in here  */
+
+
+
+/*footer section css code strat in here */
+
+ .footer-area{
+ 	width: 100%;
+ 	float: left;
+ 	padding: 40px 0px;
+ 	text-align: center;
+ 	background: #FCAAC0;
+ 	margin-top: 25px;
+ }
+
+ .footer-area P{
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 700;
+        color: #090909;
+ }
+
+ .footer-area P a{
+        font-weight:700;
+        letter-spacing: 3px;
+        color:#fff;
+ }
+
+.button{
+	display: inline-block;
+	width:15%;
+	padding: 10px;
+    margin: 20px;
+    background-color: #FF6162;
+}
+
+
+ /*footer section css code end in here */
